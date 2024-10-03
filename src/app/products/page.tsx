@@ -16,7 +16,7 @@ const ProductsPage: React.FC = () => {
         <div className="container px-4 mx-auto">
           <div className="pb-4 text-center border-b border-black border-opacity-5">
             <div className="relative">
-              <h2 className="mb-5 md:mb-0 text-4xl lg:text-7xl  leading-normal font-heading font-medium text-center">
+              <h2 className="mb-5 md:mb-0 text-4xl xl:text-7xl  leading-normal font-heading font-medium text-center">
                 <span className="text-orange-400">Our Range</span> Of Products
               </h2>
             </div>
@@ -41,6 +41,15 @@ const ProductsPage: React.FC = () => {
                               )
                             )}
                           </ul>
+                        </div>
+
+                        <div className="flex justify-center">
+                          <a
+                            href={`/products/${data.slug}`}
+                            className="inline-flex text-white bg-orange-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+                          >
+                            Explore
+                          </a>
                         </div>
                       </div>
                       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -74,6 +83,14 @@ const ProductsPage: React.FC = () => {
                               </li>
                             ))}
                           </ul>
+                        </div>
+                        <div className="flex justify-center">
+                          <a
+                            href={`/products/${data.slug}`}
+                            className="inline-flex text-white bg-orange-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+                          >
+                            Explore
+                          </a>
                         </div>
                       </div>
                     </div>
