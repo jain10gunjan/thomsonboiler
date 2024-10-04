@@ -1,4 +1,5 @@
 import image1 from "../images/check1.png";
+import image6 from "../images/7.png";
 import image2 from "../images/9.png";
 import image3 from "../images/10.png";
 import image4 from "../images/11.png";
@@ -63,26 +64,42 @@ export const productsData = [
       "Ideal for burning coal, briquettes,wood waste, and imported coal.",
     sailentFeatures: [
       {
-        point:
-          "Ideal for burning coal, briquettes,wood waste, and imported coal",
-      },
-      {
-        point: "Built to IBR and international standards (ASME, BS, DIN).",
-      },
-      {
-        point: "Wet-back design minimizes heat loss and boosts efficiency.",
+        point: "Optimally designed for coal firing/ briqutte/wood waste.",
       },
       {
         point:
-          "Special steam separator ensures dry steam and optimal performance.",
+          "Construction as per latest IBR or any other standard code of construction like ASME, BS, DIN etc.",
       },
       {
         point:
-          "Quick installation with minimal foundation work and high-efficiency pumps.",
+          "Optimum steam space, furnace volume & well designed Grate area & bars.",
       },
       {
         point:
-          "Boilers undergo strict quality control, including radiography and stress testing.",
+          "Its fully wet back design reduces the heat loss due to Radiation resulting in better efficiency.",
+      },
+      {
+        point:
+          "The inbuilt grate bars are specifically designed for type of fuel: Coal/Briquette/Wood waste. 'Shanti' also has specially designed grate bars for pulverised & imported coal.",
+      },
+      {
+        point:
+          "Optimum steam space with unique steam separator resulting in dry steam.",
+      },
+      {
+        point:
+          "The boilers require minimum foundation for quick installation and commissioning.",
+      },
+      {
+        point:
+          "High efficient vertical stainless steel pumps. Radiation Shield on Front & Rear for the first time designed to provide Air Insulation.",
+      },
+      {
+        point: "Efficiency ranging from 82% (+2%)",
+      },
+      {
+        point:
+          "All boilers pass through strict quality control tests like stress relieving, radiography, and other NDT tests.",
       },
     ],
     technicalSpecification: {
@@ -106,7 +123,7 @@ export const productsData = [
           "https://upload.wikimedia.org/wikipedia/commons/f/f2/Charcoal_Briquette.JPG",
       },
     ],
-    imgSrc: image2.src,
+    imgSrc: image6.src,
   },
   {
     id: 3,
@@ -308,5 +325,54 @@ export const productsData = [
       },
     ],
     imgSrc: image5.src,
+  },
+  {
+    id: 6,
+    productName: "Thompac Plus",
+    slug: "thompac-plus",
+    alter: true,
+    tagLine: "Superior compact design enables minimum space requirement.",
+    sailentFeatures: [
+      {
+        point: "Superior compact design enables minimum space requirement.",
+      },
+      {
+        point: "High thermal efficiency with 3 pass design and integral APH. ",
+      },
+      {
+        point:
+          "Factory manufactured and assembled enables minimum site work requirement.",
+      },
+      {
+        point:
+          "Large steam water interface area for greater dryness fraction. Large steam water interface area for greater dryness fraction.",
+      },
+      {
+        point:
+          "Skid-mounted design reduces civil foundation and installation costs.",
+      },
+    ],
+    technicalSpecification: {
+      productRange: "2TPH~6TPH",
+      pressure: "10.54/17.5/21 Kg/Cm2",
+    },
+    fuelUsed: [
+      {
+        fuel: "Wood",
+        imgurl:
+          "https://5.imimg.com/data5/SELLER/Default/2021/12/HW/KG/SQ/143354869/syp-wood-timber-plank.jpg",
+      },
+      {
+        fuel: "Coal",
+        imgurl:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bituminous_Coal.JPG/1200px-Bituminous_Coal.JPG",
+      },
+      {
+        fuel: "Briquette",
+        imgurl:
+          "https://upload.wikimedia.org/wikipedia/commons/f/f2/Charcoal_Briquette.JPG",
+      },
+    ],
+    imgSrc: image2.src,
   },
 ];

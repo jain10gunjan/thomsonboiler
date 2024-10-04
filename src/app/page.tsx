@@ -5,6 +5,7 @@ import Products from "@/components/Products";
 import OurMotto from "@/components/OurMotto";
 import ContactUs from "@/components/ContactUs";
 import Stats from "@/components/Stats";
+// import Industry from "@/components/Industry";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Header />
       <OurMotto />
       <Products />
+      {/* <Industry /> */}
       <Stats />
       <OurClients />
       <Faqs />

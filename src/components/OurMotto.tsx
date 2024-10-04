@@ -27,11 +27,12 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Power Precision
+                            Experienced Team
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Delivering industrial-strength heating with
-                            unmatched accuracy.
+                            Thomson Boiler is supported by a team of highly
+                            experienced officers and skilled manpower, ensuring
+                            top-quality manufacturing and service.
                           </p>
                         </div>
                       </div>
@@ -54,10 +55,12 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Efficient Heat
+                            State-of-the-Art Facilities
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Maximizing energy output while minimizing waste.
+                            We operate with advanced manufacturing units across
+                            various states, delivering world-class heating and
+                            process solutions.
                           </p>
                         </div>
                       </div>
@@ -80,11 +83,12 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Boiler Excellence
+                            24x7 Support
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Setting the standard for durable, high-performance
-                            boilers.
+                            Our dedicated team provides 24x7 service support,
+                            ensuring that customers receive timely after-sales
+                            assistance with minimal downtime.
                           </p>
                         </div>
                       </div>
@@ -113,11 +117,12 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Sustainable Solutions
+                            Research and Innovation
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Innovative boilers for a greener, more efficient
-                            future.&quot;
+                            Our R&D department is focused on creating innovative
+                            products that meet the challenges of tomorrow,
+                            constantly pushing boundaries in heating technology.
                           </p>
                         </div>
                       </div>
@@ -140,11 +145,12 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Heating Power
+                            Sustainable Solutions
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Engineered to provide reliable heat for every
-                            application.
+                            We are committed to offering sustainable solutions,
+                            always working toward minimizing the environmental
+                            impact of our products and services.
                           </p>
                         </div>
                       </div>
@@ -167,11 +173,13 @@ export default function OurMotto() {
                       <div className="flex-1 p-4">
                         <div className="md:max-w-xs">
                           <h3 className="mb-3 text-xl font-semibold leading-normal">
-                            Innovative Performance
+                            Quality Assurance
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Fueling industries with cutting-edge boiler
-                            technology.
+                            We prioritize quality by using the best raw
+                            materials and conducting thorough inspections of
+                            every boiler part before dispatch to ensure
+                            exceptional performance.
                           </p>
                         </div>
                       </div>
