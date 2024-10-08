@@ -1,6 +1,6 @@
-import Faqs from "@/components/Faq";
+// import Faqs from "@/components/Faq";
 import Header from "@/components/Header";
-import OurClients from "@/components/OurClient";
+// import OurClients from "@/components/OurClient";
 import Products from "@/components/Products";
 import OurMotto from "@/components/OurMotto";
 import ContactUs from "@/components/ContactUs";
@@ -15,8 +15,7 @@ export default function Home() {
       <Products />
       {/* <Industry /> */}
       <Stats />
-      <OurClients />
-      <Faqs />
+      {/* <OurClients /> */}
       <ContactUs />
     </div>
   );

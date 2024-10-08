@@ -1,9 +1,11 @@
 "use client";
 import { useEffect, useState } from "react";
-
 const images = [
-  "https://images.pexels.com/photos/7937300/pexels-photo-7937300.jpeg?auto=compress&cs=tinysrgb&w=600",
-  "https://images.pexels.com/photos/6752421/pexels-photo-6752421.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "/_next/static/media/check1.03a5be85.png",
+  "/_next/static/media/10.a1660495.png",
+  "/_next/static/media/11.9747a5c5.png",
+  "/_next/static/media/12.3683918a.png",
+  "/_next/static/media/9.f1f0c597.png",
 ];
 
 export default function SlidingImagesHero() {
