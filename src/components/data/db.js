@@ -34,7 +34,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "0.3TPH~20TPH",
-      pressure: "10.54 Kg/Cm<sup>2</sup> to 32 Kg/Cm<sup>2</sup>",
+      pressure: "10.54 Kg/Cm2 to 32 Kg/Cm2",
     },
     fuelUsed: [
       {
