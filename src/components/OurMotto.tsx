@@ -4,7 +4,7 @@ export default function OurMotto() {
       <section className="pt-8 pb-8 bg-white overflow-hidden">
         <div className="container px-4 mx-auto">
           <h2 className="mb-14 text-6xl md:text-6xl font-bold font-heading tracking-px-n leading-tight">
-            <span className="text-orange-400">Our</span> Motto
+            <span className="text-orange-400">Our</span> Presense
           </h2>
           <div className="flex flex-wrap -m-8">
             <div className="w-full md:w-1/2 p-8">

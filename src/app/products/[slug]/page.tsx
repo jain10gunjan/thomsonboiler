@@ -108,7 +108,7 @@ const Page = () => {
 
                   <div className="mt-1 flex items-center gap-x-2">
                     <h3 className="text-xl sm:text-2xl font-medium text-gray-800">
-                      {data[0].technicalSpecification.productRange}
+                      {data[0].technicalSpecification.pressure}
                     </h3>
                   </div>
                 </div>
