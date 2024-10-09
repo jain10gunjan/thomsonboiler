@@ -34,7 +34,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "0.3TPH~20TPH",
-      pressure: "10.54 Kg/Cm2 to 32 Kg/Cm2",
+      pressure: "10.54 Kg/Cm<sup>2</sup> to 32 Kg/Cm<sup>2</sup>",
     },
     fuelUsed: [
       {
@@ -104,7 +104,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "2TPH~6TPH",
-      pressure: "10.54/17.5/21 Kg/Cm2",
+      pressure: "10.54/17.5/21 Kg/Cm<sup>2</sup>",
     },
     fuelUsed: [
       {
@@ -153,7 +153,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "2TPH~6TPH",
-      pressure: "10.54/17.5/21 Kg/Cm2",
+      pressure: "10.54/17.5/21 Kg/Cm<sup>2</sup>",
     },
     fuelUsed: [
       {
@@ -293,7 +293,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "6TPH~25TPH",
-      pressure: "10.54/17.5/28/32/40 Kg/Cm2",
+      pressure: "10.54/17.5/28/32/40 Kg/Cm<sup>2</sup>",
     },
     fuelUsed: [
       {
@@ -354,7 +354,7 @@ export const productsData = [
     ],
     technicalSpecification: {
       productRange: "2TPH~6TPH",
-      pressure: "10.54/17.5/21 Kg/Cm2",
+      pressure: "10.54/17.5/21 Kg/Cm<sup>2</sup>",
     },
     fuelUsed: [
       {
