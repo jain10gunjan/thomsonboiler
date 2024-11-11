@@ -1,8 +1,8 @@
-import image1 from "../images/check01.png";
+import image1 from "../images/1.png";
 import image6 from "../images/71.png";
 import image2 from "../images/9.png";
-import image3 from "../images/check03.png";
-import image4 from "../images/check02.png";
+import image3 from "../images/10.png";
+import image4 from "../images/11.png";
 import image5 from "../images/12.png";
 
 export const productsData = [

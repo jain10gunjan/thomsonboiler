@@ -1,9 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 const images = [
-  "/_next/static/media/check1.03a5be85.png",
-  "/_next/static/media/10.a1660495.png",
-  "/_next/static/media/11.9747a5c5.png",
   "/_next/static/media/12.3683918a.png",
   "/_next/static/media/9.f1f0c597.png",
 ];
