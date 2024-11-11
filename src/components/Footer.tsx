@@ -3,12 +3,12 @@ import companyLogo from "../components/images/logoThomsonsBoiler.png";
 export default function Footer() {
   return (
     <>
-      <footer className="mt-auto bg-gray-900 w-full dark:bg-neutral-950">
+      <footer className="mt-auto bg-white w-full  ">
         <div className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 lg:pt-20 mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6">
             <div className=" col-span-full lg:col-span-1">
               <a
-                className="flex text-xl font-semibold text-white focus:outline-none focus:opacity-80"
+                className="flex text-xl font-semibold text-gray-700 focus:outline-none focus:opacity-80"
                 href="#"
                 aria-label="Brand"
               >
@@ -22,7 +22,7 @@ export default function Footer() {
             </div>
 
             <div className="col-span-1">
-              <h4 className="font-semibold text-gray-100">Product</h4>
+              <h4 className="font-semibold text-gray-700">Product</h4>
 
               <div className="mt-3 grid space-y-3">
                 <p>
@@ -53,7 +53,7 @@ export default function Footer() {
             </div>
 
             <div className="col-span-1">
-              <h4 className="font-semibold text-gray-100">Company</h4>
+              <h4 className="font-semibold text-gray-700">Company</h4>
 
               <div className="mt-3 grid space-y-3">
                 <p>
@@ -79,7 +79,7 @@ export default function Footer() {
                   >
                     Careers
                   </a>{" "}
-                  <span className="inline-block ms-1 text-xs bg-blue-700 text-white py-1 px-2 rounded-lg">
+                  <span className="inline-block ms-1 text-xs bg-orange-700 text-white py-1 px-2 rounded-lg">
                     We&apos;re hiring
                   </span>
                 </p>
@@ -95,10 +95,10 @@ export default function Footer() {
             </div>
 
             <div className="col-span-2">
-              <h4 className="font-semibold text-gray-100">Stay up to date</h4>
+              <h4 className="font-semibold text-gray-700">Stay up to date</h4>
 
               <form>
-                <div className="mt-4 flex flex-col items-center gap-2 sm:flex-row sm:gap-3 bg-white rounded-lg p-2 dark:bg-neutral-900">
+                <div className="mt-4 flex flex-col items-center gap-2 sm:flex-row sm:gap-3 bg-white rounded-lg p-2">
                   <div className="w-full">
                     <label htmlFor="hero-input" className="sr-only">
                       Subscribe
@@ -107,12 +107,12 @@ export default function Footer() {
                       type="text"
                       id="hero-input"
                       name="hero-input"
-                      className="py-3 px-4 block w-full border-transparent rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-transparent dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600"
+                      className="py-3 px-4 block w-full border-transparent rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none "
                       placeholder="Enter your email"
                     />
                   </div>
                   <a
-                    className="w-full sm:w-auto whitespace-nowrap p-3 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 focus:outline-none focus:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none"
+                    className="w-full sm:w-auto whitespace-nowrap p-3 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-transparent bg-orange-600 text-gray-100 hover:bg-orange-700 focus:outline-none focus:bg-orange-700 disabled:opacity-50 disabled:pointer-events-none"
                     href="#"
                   >
                     Subscribe
@@ -134,7 +134,7 @@ export default function Footer() {
 
             <div>
               <a
-                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-white hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
+                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-gray-700 hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
                 href="#"
               >
                 <svg
@@ -149,7 +149,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-white hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
+                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-gray-700 hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
                 href="#"
               >
                 <svg
@@ -164,7 +164,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-white hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
+                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-gray-700 hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
                 href="#"
               >
                 <svg
@@ -179,7 +179,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-white hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
+                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-gray-700 hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
                 href="#"
               >
                 <svg
@@ -194,7 +194,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-white hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
+                className="size-10 inline-flex justify-center items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent text-gray-700 hover:bg-white/10 focus:outline-none focus:bg-white/10 disabled:opacity-50 disabled:pointer-events-none"
                 href="#"
               >
                 <svg
