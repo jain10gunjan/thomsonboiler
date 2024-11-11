@@ -52,7 +52,7 @@ const ContactUs = () => {
           <h2 className=" font-semibold text-2xl md:text-4xl md:leading-tight">
             Contact Us
           </h2>
-          <p className="mt-1 text-neutral-400">
+          <p className="mt-1 text-neutral-700">
             Whatever your goal - we will get you there.
           </p>
         </div>
@@ -74,7 +74,7 @@ const ContactUs = () => {
                   />
                   <label
                     htmlFor="hs-tac-input-name"
-                    className="absolute top-0 start-0 p-4 h-full text-neutral-400 text-sm truncate pointer-events-none"
+                    className="absolute top-0 start-0 p-4 h-full text-neutral-700 text-sm truncate pointer-events-none"
                   >
                     Name
                   </label>
@@ -93,7 +93,7 @@ const ContactUs = () => {
                   />
                   <label
                     htmlFor="hs-tac-input-email"
-                    className="absolute top-0 start-0 p-4 h-full text-neutral-400 text-sm truncate pointer-events-none"
+                    className="absolute top-0 start-0 p-4 h-full text-neutral-700 text-sm truncate pointer-events-none"
                   >
                     Email
                   </label>
@@ -112,7 +112,7 @@ const ContactUs = () => {
                   />
                   <label
                     htmlFor="hs-tac-input-company"
-                    className="absolute top-0 start-0 p-4 h-full text-neutral-400 text-sm truncate pointer-events-none"
+                    className="absolute top-0 start-0 p-4 h-full text-neutral-700 text-sm truncate pointer-events-none"
                   >
                     Company
                   </label>
@@ -131,7 +131,7 @@ const ContactUs = () => {
                   />
                   <label
                     htmlFor="hs-tac-input-phone"
-                    className="absolute top-0 start-0 p-4 h-full text-neutral-400 text-sm truncate pointer-events-none"
+                    className="absolute top-0 start-0 p-4 h-full text-neutral-700 text-sm truncate pointer-events-none"
                   >
                     Phone
                   </label>
@@ -149,7 +149,7 @@ const ContactUs = () => {
                   ></textarea>
                   <label
                     htmlFor="hs-tac-message"
-                    className="absolute top-0 start-0 p-4 h-full text-neutral-400 text-sm truncate pointer-events-none"
+                    className="absolute top-0 start-0 p-4 h-full text-neutral-700 text-sm truncate pointer-events-none"
                   >
                     Tell us about your project
                   </label>
@@ -209,7 +209,7 @@ const ContactUs = () => {
               <div className="grow">
                 <h4 className=" font-semibold">Our address:</h4>
 
-                <address className="mt-1 text-neutral-400 text-sm not-italic">
+                <address className="mt-1 text-neutral-700 text-sm not-italic">
                   M-91, Sector-III, Pithampur, Distt.- Dhar,
                   <br />
                   M.P. - 454774
@@ -237,11 +237,12 @@ const ContactUs = () => {
                 <h4 className=" font-semibold">Email us:</h4>
 
                 <a
-                  className="mt-1 text-neutral-400 text-sm hover:text-neutral-200 focus:outline-none focus:text-neutral-200"
+                  className="mt-1 text-neutral-700 font-semibold text-sm hover:text-neutral-200 focus:outline-none focus:text-neutral-200"
                   href="#mailto:example@site.co"
                   target="_blank"
                 >
-                  md@remaxboilers.com, sales@remaxboilers.com
+                  md@remaxboilers.com, <br />
+                  sales@remaxboilers.com
                 </a>
               </div>
             </div>
@@ -264,7 +265,11 @@ const ContactUs = () => {
               </svg>
               <div className="grow">
                 <h4 className=" font-semibold">Phone no:</h4>
-                <p className="mt-1 text-neutral-400">9826750228,7982575696</p>
+                <p className="mt-1 text-neutral-700">
+                  9826750228,
+                  <br />
+                  7982575696
+                </p>
                 <p className="mt-2"></p>
               </div>
             </div>

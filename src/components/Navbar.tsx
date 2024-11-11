@@ -66,7 +66,7 @@ const Navbar = () => {
     <nav className="bg-gradient-to-br from-orange-400 bg-black border-gray-200">
       <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
         <a href="/" className="flex items-center">
-          <img src={companyLogo.src} className="h-24" alt="Logo" />
+          <img src={companyLogo.src} className="h-32" alt="Logo" />
         </a>
         <button
           onClick={toggleMenu}

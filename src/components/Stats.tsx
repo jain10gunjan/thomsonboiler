@@ -86,7 +86,7 @@ const Stats = () => {
                   </svg>
                   <div className="mt-3 sm:mt-5">
                     <h3 className="text-lg sm:text-3xl font-semibold text-gray-200">
-                      20,000+
+                      50,000+
                     </h3>
                     <p className="mt-1 text-sm sm:text-base text-white">
                       sq feet factory premisis.

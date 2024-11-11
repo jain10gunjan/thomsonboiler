@@ -3,7 +3,7 @@ import companyLogo from "../components/images/logoThomsonsBoiler.png";
 export default function Footer() {
   return (
     <>
-      <footer className="mt-auto bg-white w-full  ">
+      <footer className="mt-auto  bg-white w-full   border-orange-400 border-t-4">
         <div className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 lg:pt-20 mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6">
             <div className=" col-span-full lg:col-span-1">
