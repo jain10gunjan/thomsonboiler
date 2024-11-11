@@ -1,4 +1,4 @@
-import companyLogo from "../components/images/logoRemaxsBoilers.png";
+import companyLogo from "../components/images/logoThomsonsBoiler.png";
 
 export default function Footer() {
   return (
