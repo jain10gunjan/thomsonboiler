@@ -1,4 +1,4 @@
-import companyLogo from "../components/images/logoThomsonsBoiler.png";
+import companyLogo from "../components/images/logoRemaxsBoilers.png";
 
 export default function Footer() {
   return (
@@ -128,7 +128,7 @@ export default function Footer() {
           <div className="mt-5 sm:mt-12 grid gap-y-2 sm:gap-y-0 sm:flex sm:justify-between sm:items-center">
             <div className="flex justify-between items-center">
               <p className="text-sm text-gray-400 dark:text-neutral-400">
-                © 2024 Thomson Boiler PVT.LTD. All rights reserved.
+                © 2024 Remax Boilers PVT.LTD. All rights reserved.
               </p>
             </div>
 

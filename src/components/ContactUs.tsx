@@ -210,7 +210,7 @@ const ContactUs = () => {
                 <h4 className=" font-semibold">Our address:</h4>
 
                 <address className="mt-1 text-neutral-400 text-sm not-italic">
-                  M-91, Sector-3, Pithampur, Distt.- Dhar,
+                  M-91, Sector-III, Pithampur, Distt.- Dhar,
                   <br />
                   M.P. - 454774
                 </address>

@@ -30,7 +30,7 @@ export default function OurMotto() {
                             Experienced Team
                           </h3>
                           <p className="text-gray-600 font-medium leading-relaxed">
-                            Thomson Boiler is supported by a team of highly
+                            Remax Boilers is supported by a team of highly
                             experienced officers and skilled manpower, ensuring
                             top-quality manufacturing and service.
                           </p>
@@ -178,7 +178,7 @@ export default function OurMotto() {
                           <p className="text-gray-600 font-medium leading-relaxed">
                             We prioritize quality by using the best raw
                             materials and conducting thorough inspections of
-                            every boiler part before dispatch to ensure
+                            every Boilers part before dispatch to ensure
                             exceptional performance.
                           </p>
                         </div>
