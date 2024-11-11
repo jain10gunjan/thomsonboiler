@@ -25,7 +25,7 @@ export default function SlidingImagesHero() {
       <div className="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
         <div>
           <h1 className="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight">
-            <span className="text-orange-400">Thomson</span> Boiler
+            <span className="text-orange-400">Remax</span> Boilers
           </h1>
           <p className="mt-3 text-lg text-gray-800 dark:text-neutral-400">
             Hand-picked professionals and expertly crafted components, designed

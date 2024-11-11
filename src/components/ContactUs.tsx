@@ -241,7 +241,7 @@ const ContactUs = () => {
                   href="#mailto:example@site.co"
                   target="_blank"
                 >
-                  md@thomsonboiler.com, sales@thomsonboiler.com
+                  md@remaxboilers.com, sales@remaxboilers.com
                 </a>
               </div>
             </div>

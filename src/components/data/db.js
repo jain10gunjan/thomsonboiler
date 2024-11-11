@@ -1,8 +1,8 @@
-import image1 from "../images/check1.png";
+import image1 from "../images/check01.png";
 import image6 from "../images/71.png";
 import image2 from "../images/9.png";
-import image3 from "../images/10.png";
-import image4 from "../images/11.png";
+import image3 from "../images/check03.png";
+import image4 from "../images/check02.png";
 import image5 from "../images/12.png";
 
 export const productsData = [
@@ -57,8 +57,8 @@ export const productsData = [
   },
   {
     id: 2,
-    productName: "Thompac",
-    slug: "thompac",
+    productName: "REPAC",
+    slug: "remac",
     alter: true,
     tagLine:
       "Ideal for burning coal, briquettes,wood waste, and imported coal.",
@@ -127,8 +127,8 @@ export const productsData = [
   },
   {
     id: 3,
-    productName: "THOM MAXX",
-    slug: "thom-maxx",
+    productName: "RE-MAXX",
+    slug: "re-maxx",
     alter: false,
     tagLine:
       "High thermal efficiency with three pass design and fluidized bed combustion.",
@@ -328,8 +328,8 @@ export const productsData = [
   },
   {
     id: 6,
-    productName: "Thompac Plus",
-    slug: "thompac-plus",
+    productName: "REPAC Plus",
+    slug: "REPAC-plus",
     alter: true,
     tagLine: "Superior compact design enables minimum space requirement.",
     sailentFeatures: [

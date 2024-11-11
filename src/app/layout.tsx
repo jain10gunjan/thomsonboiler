@@ -4,8 +4,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Thomson Boiler",
-  description: "Thomson Boiler",
+  title: "Remax Boilers",
+  description: "Remax Boilers",
 };
 
 export default function RootLayout({
