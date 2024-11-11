@@ -50,7 +50,7 @@ const ContactUs = () => {
       <div className="max-w-5xl px-4 xl:px-0 py-10 lg:py-20 mx-auto">
         <div className="max-w-3xl mb-10 lg:mb-14">
           <h2 className=" font-semibold text-2xl md:text-4xl md:leading-tight">
-            Contact us
+            Contact Us
           </h2>
           <p className="mt-1 text-neutral-400">
             Whatever your goal - we will get you there.
